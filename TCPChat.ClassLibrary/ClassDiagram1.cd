@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TCPChat.ClassLibrary.ChatMessage" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAQAAAgAAAAAAAIAAAAAAIAAAAAA=</HashCode>
+      <FileName>ChatMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPChat.ClassLibrary.Message" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAACAAAAAA=</HashCode>
+      <FileName>Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPChat.ClassLibrary.MessageListData" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAAAA=</HashCode>
+      <FileName>MessageListData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPChat.ClassLibrary.UserColors" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAEAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>UserColors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPChat.ClassLibrary.UserData" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAAQCAAAAQA=</HashCode>
+      <FileName>UserData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TCPChat.ClassLibrary.AccountStatus" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAEAAAAAEAAAAACAAAAAA=</HashCode>
+      <FileName>UserData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
