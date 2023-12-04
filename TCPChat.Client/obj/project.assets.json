@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "DevExpressMvvm/21.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/DevExpress.Mvvm.UI.dll": {
+            "related": ".deps.json;.pdb"
+          },
+          "lib/netcoreapp3.0/DevExpress.Mvvm.dll": {
+            "related": ".deps.json;.pdb;.UI.deps.json;.UI.pdb"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/DevExpress.Mvvm.UI.dll": {
+            "related": ".deps.json;.pdb"
+          },
+          "lib/netcoreapp3.0/DevExpress.Mvvm.dll": {
+            "related": ".deps.json;.pdb;.UI.deps.json;.UI.pdb"
+          }
+        }
+      },
+      "TCPChat.ClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/TCPChat.ClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPChat.ClassLibrary.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "DevExpressMvvm/21.1.5": {
+      "sha512": "w/To/WMSiP8MQFDyMQq0wHQmt18RK/t5b6LaAuZP9hX8rw4XlMYkiZ6Ka5/JmKEG4rXB/BiO/cPxZPYZf2KKwQ==",
+      "type": "package",
+      "path": "devexpressmvvm/21.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "devexpressmvvm.21.1.5.nupkg.sha512",
+        "devexpressmvvm.nuspec",
+        "icon.png",
+        "lib/net452/DevExpress.Mvvm.UI.dll",
+        "lib/net452/DevExpress.Mvvm.UI.pdb",
+        "lib/net452/DevExpress.Mvvm.dll",
+        "lib/net452/DevExpress.Mvvm.pdb",
+        "lib/netcoreapp3.0/DevExpress.Mvvm.UI.deps.json",
+        "lib/netcoreapp3.0/DevExpress.Mvvm.UI.dll",
+        "lib/netcoreapp3.0/DevExpress.Mvvm.UI.pdb",
+        "lib/netcoreapp3.0/DevExpress.Mvvm.deps.json",
+        "lib/netcoreapp3.0/DevExpress.Mvvm.dll",
+        "lib/netcoreapp3.0/DevExpress.Mvvm.pdb",
+        "license.txt"
+      ]
+    },
+    "TCPChat.ClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TCPChat.ClassLibrary/TCPChat.ClassLibrary.csproj",
+      "msbuildProject": "../TCPChat.ClassLibrary/TCPChat.ClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "DevExpressMvvm >= 21.1.5",
+      "TCPChat.ClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\study\\study\\курсач\\ПСП\\TCP\\TCPChat-master\\TCPChat.Client\\TCPChat.Client.csproj",
+      "projectName": "TCPChat.Client",
+      "projectPath": "C:\\study\\study\\курсач\\ПСП\\TCP\\TCPChat-master\\TCPChat.Client\\TCPChat.Client.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\study\\study\\курсач\\ПСП\\TCP\\TCPChat-master\\TCPChat.Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\study\\study\\курсач\\ПСП\\TCP\\TCPChat-master\\TCPChat.ClassLibrary\\TCPChat.ClassLibrary.csproj": {
+              "projectPath": "C:\\study\\study\\курсач\\ПСП\\TCP\\TCPChat-master\\TCPChat.ClassLibrary\\TCPChat.ClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "DevExpressMvvm": {
+            "target": "Package",
+            "version": "[21.1.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

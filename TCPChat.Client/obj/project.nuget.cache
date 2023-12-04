@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGS5yj3BRNjLT//jJ1sQWHejwbJBZtrGA6w8UzHke4T7cq2pFYVGU4Ej+O6wS7i3T4mVX57v1eXsIgJ2nGIeww==",
+  "success": true,
+  "projectFilePath": "C:\\study\\study\\курсач\\ПСП\\TCP\\TCPChat-master\\TCPChat.Client\\TCPChat.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\devexpressmvvm\\21.1.5\\devexpressmvvm.21.1.5.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

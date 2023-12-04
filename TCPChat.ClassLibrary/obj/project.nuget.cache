@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEraFOOZFmdqaUUzzSz17eOJsqGJsQwlqtjqY0oCyAmW3FQINviN977naJ6C6NxiFqCyHhhm3i+XWW/1Rwjebg==",
+  "success": true,
+  "projectFilePath": "C:\\study\\study\\курсач\\ПСП\\TCP\\TCPChat-master\\TCPChat.ClassLibrary\\TCPChat.ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

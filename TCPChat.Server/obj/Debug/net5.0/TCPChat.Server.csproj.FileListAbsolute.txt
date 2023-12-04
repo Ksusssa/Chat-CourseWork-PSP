@@ -1,0 +1,16 @@
+D:\работа\TCPChat-master\TCPChat.Server\bin\Debug\net5.0\TCPChat.Server.exe
+D:\работа\TCPChat-master\TCPChat.Server\bin\Debug\net5.0\TCPChat.Server.deps.json
+D:\работа\TCPChat-master\TCPChat.Server\bin\Debug\net5.0\TCPChat.Server.runtimeconfig.json
+D:\работа\TCPChat-master\TCPChat.Server\bin\Debug\net5.0\TCPChat.Server.runtimeconfig.dev.json
+D:\работа\TCPChat-master\TCPChat.Server\bin\Debug\net5.0\TCPChat.Server.dll
+D:\работа\TCPChat-master\TCPChat.Server\bin\Debug\net5.0\ref\TCPChat.Server.dll
+D:\работа\TCPChat-master\TCPChat.Server\bin\Debug\net5.0\TCPChat.Server.pdb
+D:\работа\TCPChat-master\TCPChat.Server\obj\Debug\net5.0\TCPChat.Server.csproj.AssemblyReference.cache
+D:\работа\TCPChat-master\TCPChat.Server\obj\Debug\net5.0\TCPChat.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\работа\TCPChat-master\TCPChat.Server\obj\Debug\net5.0\TCPChat.Server.AssemblyInfoInputs.cache
+D:\работа\TCPChat-master\TCPChat.Server\obj\Debug\net5.0\TCPChat.Server.AssemblyInfo.cs
+D:\работа\TCPChat-master\TCPChat.Server\obj\Debug\net5.0\TCPChat.Server.csproj.CoreCompileInputs.cache
+D:\работа\TCPChat-master\TCPChat.Server\obj\Debug\net5.0\TCPChat.Server.dll
+D:\работа\TCPChat-master\TCPChat.Server\obj\Debug\net5.0\ref\TCPChat.Server.dll
+D:\работа\TCPChat-master\TCPChat.Server\obj\Debug\net5.0\TCPChat.Server.pdb
+D:\работа\TCPChat-master\TCPChat.Server\obj\Debug\net5.0\TCPChat.Server.genruntimeconfig.cache
